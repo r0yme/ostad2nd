@@ -1,7 +1,7 @@
 # foods-html
 
 # Repository Link:
-https://github.com/TuShar6T9/foods-html
+https://github.com/r0yme/ostad2nd
 
 # Deployed Link:
-https://tushar6t9.github.io/foods-html/
+https://r0yme.github.io/ostad2nd
