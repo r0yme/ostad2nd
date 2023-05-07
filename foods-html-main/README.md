@@ -1,7 +1,0 @@
-# foods-html
-
-# Repository Link:
-https://github.com/TuShar6T9/foods-html
-
-# Deployed Link:
-https://tushar6t9.github.io/foods-html/
